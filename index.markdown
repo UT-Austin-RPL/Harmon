@@ -366,11 +366,11 @@ src="./src/retarget.png" style="width:100%;"> </a></td>
                   <td>
                   <left>
 <pre><code style="display:block; overflow-x: auto">
-@inproceedings{harmon2024,
-   title={Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions},
-   author={Jiang, Zhenyu and Xie, Yuqi and Li, Jinhan and Yuan, Ye and Zhu, Yifeng and Zhu, Yuke},
-   booktitle={8th Annual Conference on Robot Learning (CoRL)},
-   year={2024}
+@article{jiang2024harmon,
+  title={Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions},
+  author={Jiang, Zhenyu and Xie, Yuqi and Li, Jinhan and Yuan, Ye and Zhu, Yifeng and Zhu, Yuke},
+  journal={arXiv preprint arXiv:2410.12773},
+  year={2024}
 }
 </code></pre>
 </left></td></tr></table>
