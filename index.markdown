@@ -120,7 +120,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 <center><h2>
         Conference on Robot Learning (CoRL), 2024&nbsp;&nbsp;&nbsp; 		
     </h2></center>
-	<center><h2><a href="https://arxiv.org/abs/2410.12773">Arxiv</a></h2></center>
+	<center><h2><a href="https://arxiv.org/abs/2410.12773">Arxiv</a> | <a href="https://twitter.com/SteveTod1998/status/1849827125227913279">Twitter Summary</a></h2></center>
 
 
 <p>
